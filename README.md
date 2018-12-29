@@ -1,7 +1,7 @@
 # **IoT Workshop iSpace 2019**
 
 
-## **About This Workshop :mega:**
+## **About This Workshop **
 
   This workshop is an introduction to world of the __*IoT (Internet of Things)*__, an ecosystem of connected physical objects that are accessible through the internet. It extends internet connectivity beyond traditional devices like laptop & smartphones to a diverse range of devices.
 
@@ -13,21 +13,19 @@
 
 #
 
-## **Date and Place :mega:**
+## **Date and Place **
   
-  7th-8th January 2019 10:00h-16:00h
-  iSpace, Accra, Ghana
+  - 7th-8th January 2019 10:00h-16:00h
+  - iSpace, Accra, Ghana
   
 #
 
-Date:
 
+## **Requirements **
 
-## **Requirements :mega:**
-
-  - :computer: A laptop _**(Windows/MacOS/Linux)**_.
-  - :iphone: A smartphone **_(Android/iOS)_**.
-  - :Arduino IDE: download at **_(https://www.arduino.cc/en/Main/Software)_**.
+  - A laptop _**(Windows/MacOS/Linux)**_.
+  - A smartphone **_(Android/iOS)_**.
+  - _**Arduino IDE:**_ download at **_(https://www.arduino.cc/en/Main/Software)_**.
 
 #
 
